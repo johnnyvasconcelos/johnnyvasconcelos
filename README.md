@@ -9,3 +9,5 @@
 &nbsp; 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyvasconcelos&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvasconcelos&layout=dark)](https://github.com/johnnyvasconcelos/github-readme-stats)
