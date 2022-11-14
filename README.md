@@ -1,4 +1,4 @@
-### Olá, Mundo! Meu nome é Johnny Vasconcelos Bittencourt. 👋
+### Olá! Sou Johnny Vasconcelos. 👋
 
 - 📦 Atualmente trabalho com conversão de sites para HTML ou WordPress.
 - 🌱 Estou aprendendo React, NODE JS, Vue JS e UX/UI Design.
