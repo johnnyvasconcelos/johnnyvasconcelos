@@ -14,7 +14,7 @@
 
 &nbsp; 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvasconcelos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvasconcelos&layout=default&bg_color=040404&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp; 
 
