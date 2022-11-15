@@ -8,4 +8,7 @@
 
 &nbsp; 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyvasconcelos&show_icons=true&theme=highcontrast)
+<a href="https://github.com/johnnyvasconcelos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyvasconcelos&show_icons=true&theme=highcontrast&include_all_commits=true&count">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvasconcelos&layout=demot&langs_count16&theme=highcontrast"/>
+</a>
