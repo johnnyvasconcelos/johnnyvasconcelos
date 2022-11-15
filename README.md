@@ -6,13 +6,13 @@
 - 📫 Contate-me pelo e-mail: contato@johnnyvasconcelos.com.br
 
 
-&nbsp; ##
+&nbsp; 
 
 <a href="https://github.com/johnnyvasconcelos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyvasconcelos&show_icons=true&theme=highcontrast&include_all_commits=true&count">
 </a>
 
-&nbsp; ##
+&nbsp; 
 
 <div class="langs">
    <img class="lang" width="25px" src="https://uploaddeimagens.com.br/images/004/163/534/original/html.png?1668471805"/>
