@@ -1,4 +1,4 @@
-### Olá! Sou Johnny Vasconcelos. 👋
+### Olá, Meu Nome é Johnny! 👋
 
 - 📦 Atualmente trabalho com conversão de sites para HTML ou WordPress.
 - 🌱 Estou aprendendo React, NODE JS, Vue JS e UX/UI Design.
