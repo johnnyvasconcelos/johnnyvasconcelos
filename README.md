@@ -7,6 +7,10 @@
 
 &nbsp; 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyvasconcelos)](https://github.com/johnnyvasconcelos/github-readme-stats)
+
+&nbsp; 
+
 <div class="langs">
    <img class="lang" width="25px" src="https://uploaddeimagens.com.br/images/004/163/534/original/html.png?1668471805"/>
    <img class="lang" width="25px" src="https://uploaddeimagens.com.br/images/004/163/531/original/css.png?1668471753"/>
