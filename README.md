@@ -7,13 +7,6 @@
 
 &nbsp; 
 
-<a href="https://github.com/johnnyvasconcelos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnnyvasconcelos&show_icons=true&theme=highcontrast&include_all_commits=true&count">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvasconcelos&layout=default&bg_color=040404&theme=highcontrast"/>
-</a>
-
-&nbsp; 
-
 <div class="langs">
    <img class="lang" width="25px" src="https://uploaddeimagens.com.br/images/004/163/534/original/html.png?1668471805"/>
    <img class="lang" width="25px" src="https://uploaddeimagens.com.br/images/004/163/531/original/css.png?1668471753"/>
