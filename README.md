@@ -1,6 +1,6 @@
 ###
 
-Desenvolvedor Full Stack. Principais linguagens: VUE JS, REACT, NODE JS, BOOTSTRAP 5, HTML, CSS.
+Desenvolvedor Full Stack. VUE JS, REACT, NODE JS, BOOTSTRAP 5, HTML, CSS.
 
 <div class="langs">
    <img class="lang" width="25px" src="https://uploaddeimagens.com.br/images/004/163/534/original/html.png?1668471805"/>
