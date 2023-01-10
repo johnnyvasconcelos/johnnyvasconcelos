@@ -1,15 +1,6 @@
-### Olá, Meu Nome é Johnny! 👋
+###
 
-- 📦 Atualmente trabalho com conversão de sites para HTML ou WordPress.
-- 🌱 Estou aprendendo React, NODE JS, Vue JS e UX/UI Design.
-- 💪 Procuro colaborar em projetos que envolvam desenvolvimento WP.
-- 📫 Contate-me pelo e-mail: contato@johnnyvasconcelos.com.br
-
-&nbsp; 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyvasconcelos)](https://github.com/johnnyvasconcelos/github-readme-stats)
-
-&nbsp; 
+Desenvolvedor Full Stack. Principais linguagens: VUE JS, REACT, NODE JS, BOOTSTRAP 5, HTML, CSS.
 
 <div class="langs">
    <img class="lang" width="25px" src="https://uploaddeimagens.com.br/images/004/163/534/original/html.png?1668471805"/>
