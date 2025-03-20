@@ -1,6 +1,7 @@
 ###
 
-Desenvolvedor Full Stack. VUE JS, REACT & NODE.
+🚀 Full Stack Developer | Vue.js, React (Next.js) & Node.js | WordPress & SEO 
+ 
 <!--
 <div class="langs">
    <img class="lang" width="25px" src="https://uploaddeimagens.com.br/images/004/163/534/original/html.png?1668471805"/>
